@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Bw Darius Stencil';
+    src: url('BwDariusStencil-Light.eot');
+    src: local('Bw Darius Stencil Light'), local('BwDariusStencil-Light'),
+        url('BwDariusStencil-Light.eot?#iefix') format('embedded-opentype'),
+        url('BwDariusStencil-Light.woff2') format('woff2'),
+        url('BwDariusStencil-Light.woff') format('woff'),
+        url('BwDariusStencil-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-LightItalic.eot');
+    src: local('Bw Darius Light Italic'), local('BwDarius-LightItalic'),
+        url('BwDarius-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-LightItalic.woff2') format('woff2'),
+        url('BwDarius-LightItalic.woff') format('woff'),
+        url('BwDarius-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-Regular.eot');
+    src: local('Bw Darius Regular'), local('BwDarius-Regular'),
+        url('BwDarius-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-Regular.woff2') format('woff2'),
+        url('BwDarius-Regular.woff') format('woff'),
+        url('BwDarius-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-Bold.eot');
+    src: local('Bw Darius Bold'), local('BwDarius-Bold'),
+        url('BwDarius-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-Bold.woff2') format('woff2'),
+        url('BwDarius-Bold.woff') format('woff'),
+        url('BwDarius-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-BlackItalic.eot');
+    src: local('Bw Darius Black Italic'), local('BwDarius-BlackItalic'),
+        url('BwDarius-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-BlackItalic.woff2') format('woff2'),
+        url('BwDarius-BlackItalic.woff') format('woff'),
+        url('BwDarius-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Darius Stencil';
+    src: url('BwDariusStencil-Black.eot');
+    src: local('Bw Darius Stencil Black'), local('BwDariusStencil-Black'),
+        url('BwDariusStencil-Black.eot?#iefix') format('embedded-opentype'),
+        url('BwDariusStencil-Black.woff2') format('woff2'),
+        url('BwDariusStencil-Black.woff') format('woff'),
+        url('BwDariusStencil-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius Stencil';
+    src: url('BwDariusStencil-Regular.eot');
+    src: local('Bw Darius Stencil Regular'), local('BwDariusStencil-Regular'),
+        url('BwDariusStencil-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BwDariusStencil-Regular.woff2') format('woff2'),
+        url('BwDariusStencil-Regular.woff') format('woff'),
+        url('BwDariusStencil-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-Light.eot');
+    src: local('Bw Darius Light'), local('BwDarius-Light'),
+        url('BwDarius-Light.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-Light.woff2') format('woff2'),
+        url('BwDarius-Light.woff') format('woff'),
+        url('BwDarius-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-RegularItalic.eot');
+    src: local('Bw Darius Regular Italic'), local('BwDarius-RegularItalic'),
+        url('BwDarius-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-RegularItalic.woff2') format('woff2'),
+        url('BwDarius-RegularItalic.woff') format('woff'),
+        url('BwDarius-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-Black.eot');
+    src: local('Bw Darius Black'), local('BwDarius-Black'),
+        url('BwDarius-Black.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-Black.woff2') format('woff2'),
+        url('BwDarius-Black.woff') format('woff'),
+        url('BwDarius-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius Stencil';
+    src: url('BwDariusStencil-Bold.eot');
+    src: local('Bw Darius Stencil Bold'), local('BwDariusStencil-Bold'),
+        url('BwDariusStencil-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BwDariusStencil-Bold.woff2') format('woff2'),
+        url('BwDariusStencil-Bold.woff') format('woff'),
+        url('BwDariusStencil-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Darius';
+    src: url('BwDarius-BoldItalic.eot');
+    src: local('Bw Darius Bold Italic'), local('BwDarius-BoldItalic'),
+        url('BwDarius-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('BwDarius-BoldItalic.woff2') format('woff2'),
+        url('BwDarius-BoldItalic.woff') format('woff'),
+        url('BwDarius-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
